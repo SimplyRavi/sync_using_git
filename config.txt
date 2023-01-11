@@ -1,0 +1,4 @@
+repo_name=my-private-repo
+username=darkLord-here
+token=gSOMETHINCM
+folder=C:\Users\darkLord\Desktop\Workspace\automation\private
