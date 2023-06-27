@@ -1,4 +1,6 @@
 ewnrhewihri# Sync Using Git
+testdcttc# Sync Using Git
+
 Tried to replicate basic sync functionality using python on creation or updation in a directory
 
 1. Create one folder and put the exe file with config.txt file (need to have github account and generate token DO NOT SHARE THAT TOKEN)
