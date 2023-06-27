@@ -1,5 +1,4 @@
-ewnrhewihri# Sync Using Git
-testdcttc# Sync Using Git
+# Sync Using Git
 
 Tried to replicate basic sync functionality using python on creation or updation in a directory
 
